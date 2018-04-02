@@ -25,5 +25,5 @@ if(displayseparator==true)
 if (i!=(numposts-1))
 document.write('');
 }
-document.write( unescape( '<center><a href="http://www.condaianllkhir.com/" target="_blank"><span style="font-size: x-small;">Get this Blogger widgets</span></a></center>' ) );
+document.write( unescape( '<center><a href="http://www.startimes.org/" target="_blank"><span style="font-size: x-small;">startimes soft</span></a></center>' ) );
 }
